@@ -1,39 +1,39 @@
 ﻿@font-face 
 {
     font-family: "Star4000";
-    src: url('../fonts/Star4000.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
     /*font-weight: bold;
     font-style: italic;*/
 }
 @font-face 
 {
     font-family: "Star 4 Radar";
-    src: url('../fonts/Star 4 Radar.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
 }
 @font-face 
 {
     font-family: 'Star4000 Extended';
-    src: url('../fonts/Star4000 Extended.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
 }
 @font-face 
 {
     font-family: 'Star4000 Large Compressed Numbers';
-    src: url('../fonts/Star4000 Large Compressed Numbers.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
 }
 @font-face
  {
     font-family: 'Star4000 Large Compressed';
-    src: url('../fonts/Star4000 Large Compressed.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
 }
 @font-face 
 {
     font-family: 'Star4000 Large';
-    src: url('../fonts/Star4000 Large.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
 }
 @font-face
  {
     font-family: 'Star4000 Small';
-    src: url('../fonts/Star4000 Small.woff') format('woff');
+    src: url('file:///Trolls%20Movie%20Font.otf') format('otf');
 }
 body
 {
